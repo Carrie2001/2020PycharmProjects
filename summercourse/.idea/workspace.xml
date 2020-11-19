@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="853987a3-f463-41bf-b75b-bd8492f52f61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/pycharmProjections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/pycharmProjections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/COVID.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/ELEVENFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/Geographical distribution1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/Geographical distribution2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/NINEFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/Numerical feature distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/OJ01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/OJ02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/OJ03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/QR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/SIXThuesday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/THIRTHTEENFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/THREEFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/TWOFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/TewlveFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/adj_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/bill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/chenmo1105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/ciyun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/crimes_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/fare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/fare_sex_age.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/mooc_chenmo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/onechipotle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/pclass_age.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/sex_percent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/wangzixuan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/zhangyuexperiment01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/zhangyuexperiment02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/zhangyuexperiment03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcourse/zhangyuexperiment04.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EnterpriseClassification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PurchaserStatistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PurchaserStatistics.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="620" />
+    <option name="y" value="225" />
+    <option name="width" value="1020" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="summercourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="summercourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020PycharmProjects" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="853987a3-f463-41bf-b75b-bd8492f52f61" name="Default Changelist" comment="" />
+      <created>1600086260012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600086260012</updated>
+      <workItem from="1600086261388" duration="4491000" />
+      <workItem from="1600673651867" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4665000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.1756374" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/ProgramData/02Anaconda3.5.2.0/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4371" selection-start-line="4371" selection-end-line="4371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnterpriseClassification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PurchaserStatistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

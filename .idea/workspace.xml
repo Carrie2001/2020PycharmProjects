@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d24e73-b7b6-44fb-8b2b-9d68f7db027c" name="Default Changelist" comment="2019-2020springcourse from zhangyu and chenmo">
+      <change afterPath="$PROJECT_DIR$/summercourse/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pycharmProjections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pycharmProjections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/COVID.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/ELEVENFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/Geographical distribution1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/Geographical distribution2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/NINEFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/Numerical feature distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/OJ01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/OJ02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/OJ03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/QR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/SIXThuesday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/THIRTHTEENFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/THREEFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/TWOFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/TewlveFriday.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/adj_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/bill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/chenmo1105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/ciyun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/crimes_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/fare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/fare_sex_age.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/mooc_chenmo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/onechipotle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/pclass_age.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/sex_percent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/wangzixuan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/zhangyuexperiment01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/zhangyuexperiment02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/zhangyuexperiment03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcourse/zhangyuexperiment04.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pycharmProjections$zhangyuexperiment01.coverage" NAME="zhangyuexperiment01 Coverage Results" MODIFIED="1584092387520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$zhangyuexperiment04.coverage" NAME="zhangyuexperiment04 Coverage Results" MODIFIED="1585057236043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1582964429390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$SIXThuesday.coverage" NAME="SIXThuesday Coverage Results" MODIFIED="1585638184502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$mooc_chenmo.coverage" NAME="mooc_chenmo Coverage Results" MODIFIED="1591187530343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjections$read.coverage" NAME="read Coverage Results" MODIFIED="1599804363883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summercourse" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$TWOFriday.coverage" NAME="TWOFriday Coverage Results" MODIFIED="1583475476343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$OJ03.coverage" NAME="OJ03 Coverage Results" MODIFIED="1584884411701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$zhangyuexperiment03.coverage" NAME="zhangyuexperiment03 Coverage Results" MODIFIED="1585056452448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$THREEFriday.coverage" NAME="THREEFriday Coverage Results" MODIFIED="1584438910903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$OJ02.coverage" NAME="OJ02 Coverage Results" MODIFIED="1587710422931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$zhangyuexperiment02.coverage" NAME="zhangyuexperiment02 Coverage Results" MODIFIED="1584023866796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$OJ01.coverage" NAME="OJ01 Coverage Results" MODIFIED="1583478806394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjections$OJ02.coverage" NAME="OJ02 Coverage Results" MODIFIED="1599803939602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharmProjections$onechipotle.coverage" NAME="onechipotle Coverage Results" MODIFIED="1593279262194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pycharmProjections" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020PycharmProjects/springcourse/onechipotle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4674">
+              <caret line="246" column="20" selection-start-line="246" selection-start-column="20" selection-end-line="246" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/summercourse/read.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020PycharmProjects/springcourse/mooc_chenmo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summercourse/InvoiceVoidRate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summercourse/EnterpriseClassification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summercourse/PurchaserStatistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summercourse/ExpenseIncome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find># lst = []</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\ProgrammingWorkspace\PycharmProjections\summercourse</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello world.py" />
+        <option value="$PROJECT_DIR$/OJ01.py" />
+        <option value="$PROJECT_DIR$/zhangyuexperiment02.py" />
+        <option value="$PROJECT_DIR$/zhangyuexperiment01.py" />
+        <option value="$PROJECT_DIR$/THREEFriday.py" />
+        <option value="$PROJECT_DIR$/TWOFriday.py" />
+        <option value="$PROJECT_DIR$/OJ03.py" />
+        <option value="$PROJECT_DIR$/zhangyuexperiment03.py" />
+        <option value="$PROJECT_DIR$/zhangyuexperiment04.py" />
+        <option value="$PROJECT_DIR$/OJ02.py" />
+        <option value="$PROJECT_DIR$/SIXThuesday.py" />
+        <option value="$PROJECT_DIR$/nie.py" />
+        <option value="$PROJECT_DIR$/NINEFriday.py" />
+        <option value="$PROJECT_DIR$/ELEVENFriday.py" />
+        <option value="G:/DAIDAI/2019-2020_Spring Course/python/陈默/mooctest1.py" />
+        <option value="$PROJECT_DIR$/TewlveFriday.py" />
+        <option value="$PROJECT_DIR$/Friday.py" />
+        <option value="$PROJECT_DIR$/THIRTHTEENFriday.py" />
+        <option value="$PROJECT_DIR$/chenmo1105.py" />
+        <option value="$PROJECT_DIR$/mooc_chenmo.py" />
+        <option value="$PROJECT_DIR$/onechipotle.py" />
+        <option value="$PROJECT_DIR$/summercourse/test1.py" />
+        <option value="$PROJECT_DIR$/springcourse/TWOFriday.py" />
+        <option value="$PROJECT_DIR$/summercourse/02.py" />
+        <option value="$PROJECT_DIR$/summercourse/read.py" />
+        <option value="$PROJECT_DIR$/summercourse/EnterpriseClassification.py" />
+        <option value="$PROJECT_DIR$/summercourse/ExpenseIncome.py" />
+        <option value="$PROJECT_DIR$/summercourse/InvoiceVoidRate.py" />
+        <option value="$PROJECT_DIR$/summercourse/PurchaserStatistics.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="412" />
+    <option name="y" value="167" />
+    <option name="width" value="1020" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pycharmProjections" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjections" type="462c0819:PsiDirectoryNode" />
+              <item name="2020PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjections" type="462c0819:PsiDirectoryNode" />
+              <item name="2020PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="springcourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjections" type="462c0819:PsiDirectoryNode" />
+              <item name="summercourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.read">
+    <configuration name="OJ02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharmProjections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OJ02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SIXThuesday" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharmProjections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SIXThuesday.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mooc_chenmo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharmProjections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc_chenmo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="onechipotle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharmProjections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/onechipotle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharmProjections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/summercourse" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summercourse/read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read" />
+        <item itemvalue="Python.OJ02" />
+        <item itemvalue="Python.onechipotle" />
+        <item itemvalue="Python.mooc_chenmo" />
+        <item itemvalue="Python.SIXThuesday" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d24e73-b7b6-44fb-8b2b-9d68f7db027c" name="Default Changelist" comment="" />
+      <created>1582340969955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582340969955</updated>
+      <workItem from="1582340971370" duration="2373000" />
+      <workItem from="1582441939584" duration="1647000" />
+      <workItem from="1582870174654" duration="5550000" />
+      <workItem from="1582963381743" duration="4341000" />
+      <workItem from="1583050640515" duration="342000" />
+      <workItem from="1583162572161" duration="2002000" />
+      <workItem from="1583227066336" duration="3413000" />
+      <workItem from="1583233594056" duration="4433000" />
+      <workItem from="1583475078372" duration="7594000" />
+      <workItem from="1583766622378" duration="3660000" />
+      <workItem from="1583822681070" duration="132000" />
+      <workItem from="1583829789928" duration="8137000" />
+      <workItem from="1584021699507" duration="2955000" />
+      <workItem from="1584071525000" duration="583000" />
+      <workItem from="1584080002935" duration="2429000" />
+      <workItem from="1584092316771" duration="1072000" />
+      <workItem from="1584106886701" duration="732000" />
+      <workItem from="1584426749893" duration="9240000" />
+      <workItem from="1584882915876" duration="2734000" />
+      <workItem from="1585018629703" duration="3337000" />
+      <workItem from="1585035003436" duration="2534000" />
+      <workItem from="1585053903694" duration="6650000" />
+      <workItem from="1585634879290" duration="7414000" />
+      <workItem from="1585815924196" duration="156000" />
+      <workItem from="1587708338106" duration="3722000" />
+      <workItem from="1587784586374" duration="729000" />
+      <workItem from="1588407709854" duration="5598000" />
+      <workItem from="1588917796824" duration="3621000" />
+      <workItem from="1588925508116" duration="12239000" />
+      <workItem from="1589524950413" duration="8959000" />
+      <workItem from="1589544021533" duration="7721000" />
+      <workItem from="1590128043135" duration="5173000" />
+      <workItem from="1590161400902" duration="4896000" />
+      <workItem from="1590196031547" duration="10771000" />
+      <workItem from="1590417975911" duration="2249000" />
+      <workItem from="1590755477411" duration="893000" />
+      <workItem from="1591164923281" duration="11487000" />
+      <workItem from="1591182685380" duration="6248000" />
+      <workItem from="1591344286417" duration="1634000" />
+      <workItem from="1591357452079" duration="7441000" />
+      <workItem from="1591948271628" duration="627000" />
+      <workItem from="1593138027285" duration="2675000" />
+      <workItem from="1593162355802" duration="1096000" />
+      <workItem from="1593163614223" duration="7803000" />
+      <workItem from="1593221172957" duration="19312000" />
+      <workItem from="1593266317551" duration="6879000" />
+      <workItem from="1593273262204" duration="8204000" />
+      <workItem from="1594713626789" duration="1897000" />
+      <workItem from="1594715581400" duration="227000" />
+      <workItem from="1594716070256" duration="1542000" />
+      <workItem from="1594718097575" duration="1426000" />
+      <workItem from="1594739028462" duration="1662000" />
+      <workItem from="1594798451125" duration="1636000" />
+      <workItem from="1595127060025" duration="341000" />
+      <workItem from="1595127883954" duration="2775000" />
+      <workItem from="1595862604394" duration="1626000" />
+      <workItem from="1595901889882" duration="332000" />
+      <workItem from="1595903970042" duration="158000" />
+      <workItem from="1599803416992" duration="7673000" />
+      <workItem from="1599828133096" duration="1658000" />
+      <workItem from="1599870696995" duration="20857000" />
+      <workItem from="1599910686376" duration="15255000" />
+      <workItem from="1599975891368" duration="869000" />
+    </task>
+    <task id="LOCAL-00001" summary="2019-2020springcourse from zhangyu and chenmo">
+      <created>1595128552285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595128552285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="283371000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.59363294" visible="true" weight="0.16823056" />
+      <window_info id="Structure" order="1" sideWeight="0.40636703" side_tool="true" weight="0.1494638" />
+      <window_info id="Favorites" order="2" sideWeight="0.40636703" side_tool="true" weight="0.1494638" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.711126" weight="0.5184136" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20084865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.83427763" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1541555" side_tool="true" visible="true" weight="0.21104816" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5234584" weight="0.10339943" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.8458445" visible="true" weight="0.21104816" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.02010724" />
+      <window_info anchor="right" id="Database" order="4" weight="0.12868632" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019-2020springcourse from zhangyu and chenmo" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-2020springcourse from zhangyu and chenmo" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TEACHER" />
+    <entry file="file://$PROJECT_DIR$/zhangyuexperiment02.py" />
+    <entry file="file://$PROJECT_DIR$/TWOFriday.py" />
+    <entry file="file://$PROJECT_DIR$/zhangyuexperiment01.py" />
+    <entry file="file://$PROJECT_DIR$/THREEFriday.py" />
+    <entry file="file://$PROJECT_DIR$/zhangyuexperiment03.py" />
+    <entry file="file://$PROJECT_DIR$/zhangyuexperiment04.py" />
+    <entry file="file://$PROJECT_DIR$/OJ01.py" />
+    <entry file="file://$PROJECT_DIR$/OJ03.py" />
+    <entry file="file://$PROJECT_DIR$/OJ02.py" />
+    <entry file="file://$PROJECT_DIR$/SIXThuesday.py" />
+    <entry file="file://$PROJECT_DIR$/NINEFriday.py" />
+    <entry file="file://G:/DAIDAI/2019-2020_Spring Course/python/陈默/mooctest1.py" />
+    <entry file="file://$PROJECT_DIR$/TewlveFriday.py" />
+    <entry file="file://$PROJECT_DIR$/THIRTHTEENFriday.py" />
+    <entry file="file://$PROJECT_DIR$/ELEVENFriday.py" />
+    <entry file="file://$PROJECT_DIR$/chenmo1105.py" />
+    <entry file="file://$PROJECT_DIR$/QR.png" />
+    <entry file="file://$PROJECT_DIR$/Geographical distribution2.png" />
+    <entry file="file://$PROJECT_DIR$/Geographical distribution1.png" />
+    <entry file="file://$PROJECT_DIR$/fare.png" />
+    <entry file="file://$PROJECT_DIR$/../ProgramData/Anaconda3.5.2.0/Lib/site-packages/pandas/core/indexes/base.py" />
+    <entry file="file://$PROJECT_DIR$/sex_percent.png" />
+    <entry file="file://$PROJECT_DIR$/fare_sex_age.png" />
+    <entry file="file://$PROJECT_DIR$/crimes_rate.png" />
+    <entry file="file://$PROJECT_DIR$/pclass_age.png" />
+    <entry file="file://$PROJECT_DIR$/mooc_chenmo.py" />
+    <entry file="file://$PROJECT_DIR$/summertest" />
+    <entry file="file://$PROJECT_DIR$/onechipotle.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/TewlveFriday.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/mooc_chenmo.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/Geographical distribution2.png" />
+    <entry file="file://$PROJECT_DIR$/springcourse/NINEFriday.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/OJ02.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/OJ01.py" />
+    <entry file="file://$PROJECT_DIR$/summercourse/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summercourse/02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcourse/zhangyuexperiment01.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/wangzixuan.png" />
+    <entry file="file://$PROJECT_DIR$/springcourse/TWOFriday.py" />
+    <entry file="file://$PROJECT_DIR$/springcourse/chenmo1105.py" />
+    <entry file="file://$PROJECT_DIR$/2020PycharmProjects/springcourse/chenmo1105.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020PycharmProjects/springcourse/onechipotle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4674">
+          <caret line="246" column="20" selection-start-line="246" selection-start-column="20" selection-end-line="246" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summercourse/ExpenseIncome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summercourse/InvoiceVoidRate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summercourse/EnterpriseClassification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summercourse/PurchaserStatistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020PycharmProjects/springcourse/mooc_chenmo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summercourse/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
